@@ -169,3 +169,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Private configuration
+config.py
+.env
+comments_replied.txt
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Bot specific
+comments_replied.txt
+logs/
