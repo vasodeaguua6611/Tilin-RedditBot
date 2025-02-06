@@ -1,2 +1,3 @@
-# Tilin-RedditBot
-TilinRedditBot. Tilinbot peropara redit w
+## Tilin-RedditBot
+# W.O.P
+# ESTIMATED RELEASE : TOMORROW LOL
